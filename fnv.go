@@ -1,5 +1,5 @@
-// Package fnv implements 32 and 64 bit
-// FNV-1 hash variants.
+// Package fnv implements allocation-free
+// 32 and 64 bit FNV-1 hash variants.
 package fnv
 
 const (
